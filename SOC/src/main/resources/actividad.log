@@ -1,0 +1,24 @@
+Id de Ataque:01RAM
+Fecha del Ataque: 28/11/2023
+Descripcion del Ataque: Se detectó la presencia de un malware que cifra los archivos de la víctima y exige un rescate para restaurar el acceso.
+Usuarios Afectados: 3
+
+Id de Ataque:02PHI
+Fecha del Ataque: 28/11/2023
+Descripcion del Ataque: Varios usuarios fueron víctimas de spear phishing a través de correos electrónicos engañosos solicitando información confidencial.
+Usuarios Afectados: 5
+
+Id de Ataque:05SQLI
+Fecha del Ataque: 28/11/2023
+Descripcion del Ataque: Detectamos un ataque de inyección de SQL con código malicioso que intentaba acceder a información confidencial a través de nuestra aplicación web.
+Usuarios Afectados: 2
+
+Id de Ataque:07ZERODAY
+Fecha del Ataque: 28/11/2023
+Descripcion del Ataque: Se identificó la explotación de vulnerabilidades con un ataque de día cero, comprometiendo la seguridad de nuestros sistemas.
+Usuarios Afectados: 1
+
+Id de Ataque:11IOT
+Fecha del Ataque: 28/11/2023
+Descripcion del Ataque: Nuestros dispositivos IoT, incluyendo cámaras de seguridad y dispositivos domésticos inteligentes, fueron víctimas de accesos no autorizados.
+Usuarios Afectados: 2
